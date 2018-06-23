@@ -1,4 +1,5 @@
 # Patrick4dev.github.io
-It seems to be a website, blog or whatever else. 
+This is nothing.
+There's nothing can be seen in this website.
 
 Created on 2/10/2018
